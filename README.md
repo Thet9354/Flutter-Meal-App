@@ -1,6 +1,8 @@
 # Flutter Meal App
 
-The Flutter Meal App is a mobile application developed using the Flutter framework. It allows users to explore a variety of meals from different categories and provides details such as ingredients, difficulty level, affordability, convenience, and cooking time for each meal. Additionally, users can add their favorite meals to a favorites list and apply filters to display meals with specific attributes.
+The Flutter Meal App is a mobile application developed using the Flutter framework. It allows users to explore a variety of meals from different categories and provides details such as ingredients, difficulty level, affordability, convenience, and cooking time for each meal. Additionally, users can add their favorite meals to a favorites list and apply filters to display meals with specific attributes. Below is an attached drive folder on the different screenshots of the app content.
+
+https://drive.google.com/drive/folders/1JJMosoXgOvA6rVbuWKBKgT_aeba1jA_S?usp=share_link
 
 ## Features
 
